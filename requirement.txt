@@ -3,4 +3,5 @@ pandas
 Flask
 matplotlib
 seaborn
+ipykernel
 -e .
